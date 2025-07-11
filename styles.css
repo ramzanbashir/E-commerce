@@ -1,0 +1,56 @@
+/* body {
+  background-color: #d4e2f0;
+}
+
+.card-text {
+  max-height: 100px;
+  overflow: hidden;
+}
+
+.card {
+  height: 100%;
+} */
+
+
+body {
+  background: linear-gradient(to right, #f8f9fa, #e9ecef);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.placeholder-primary-emphasis::placeholder {
+  color: var(--bs-primary-text-emphasis);
+}
+
+.card-text {
+  max-height: 100px;
+  overflow: hidden;
+}
+
+.card {
+  height: 100%;
+}
+
+.btn-qty {
+  padding: 4px 10px;
+  margin: 0 5px;
+  font-size: 16px;
+}
+
+.cart-img {
+  height: 100px;
+  object-fit: contain;
+}
+
+
+
+/* .e{
+  color: blue;
+}
+
+.d{
+  color: aqua;
+}
+
+.c{
+  color: aquamarine;
+} */
